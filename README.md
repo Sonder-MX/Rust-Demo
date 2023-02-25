@@ -22,3 +22,5 @@ rand = "0.8.5"
 ```rust
 use std::collections::HashMap;
 ```
+
+## [3.递归和循环斐波那契数列](/fibonacci_seq)
