@@ -1,2 +1,6 @@
 # Rust-Demo
-Rust 小练习
+
+环境
+
+- Rust==1.67
+- Visual Studio Code
