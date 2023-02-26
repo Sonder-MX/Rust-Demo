@@ -24,3 +24,8 @@ use std::collections::HashMap;
 ```
 
 ## [3.递归和循环斐波那契数列](/fibonacci_seq)
+
+## [4.人员信息管理](/manage_info)
+
+- 结构体
+- 枚举
