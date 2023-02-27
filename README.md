@@ -29,3 +29,13 @@ use std::collections::HashMap;
 
 - 结构体
 - 枚举
+
+## [5.简单网络爬虫-QQ 阅读小说排行](/web_crawler)
+
+```
+reqwest = { version = "0.11", features = ["blocking"] }
+scraper = "0.14"
+```
+
+- reqwest: 网络请求库
+- scraper: HTML 选择器
