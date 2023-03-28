@@ -43,3 +43,8 @@ scraper = "0.14"
 ## [6.二分查找](/binary_search)
 
 - 有序
+
+## [7.二叉树遍历](/binary_tree)
+
+- BFS
+- DFS (先序)
