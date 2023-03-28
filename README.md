@@ -39,3 +39,7 @@ scraper = "0.14"
 
 - reqwest: 网络请求库
 - scraper: HTML 选择器
+
+## [6.二分查找](/binary_search)
+
+- 有序
