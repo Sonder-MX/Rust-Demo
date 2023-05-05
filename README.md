@@ -48,3 +48,8 @@ scraper = "0.14"
 
 - BFS
 - DFS (先序)
+
+## [8.BFS 和 DFS](/bfs_dfs)
+
+- BFS: 求最大岛屿面积
+- DFS: 求所有可能的路径
