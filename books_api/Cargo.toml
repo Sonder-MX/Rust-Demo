@@ -9,3 +9,4 @@ edition = "2021"
 poem = "1"
 poem-openapi = { version = "3", features = ["swagger-ui"] }
 tokio = { version = "1", features = ["full"] }
+chrono = { version = "0.4", features = ["unstable-locales"] }
