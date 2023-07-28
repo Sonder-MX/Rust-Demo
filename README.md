@@ -66,3 +66,18 @@ tokio = { version = "1", features = ["full"] }
 thirtyfour = "0.31.0"
 rand = "0.8.5"
 ```
+
+## [10. Poem-OpenAPI 的使用](/books_api)
+
+- 简易图书管理演示
+- 启动：
+  - `cargo run` 或
+  - `cargo run ip=127.0.0.1 port=9090`
+
+```
+poem = "1"
+poem-openapi = { version = "3", features = ["swagger-ui"] }
+tokio = { version = "1", features = ["full"] }
+```
+
+![效果演示](images/poem-openapi.jpg)
